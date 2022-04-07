@@ -1,2 +1,9 @@
 /* home */
 @use "../base/typography" as type;
+
+body {
+  h1 {
+    font-family: "Poppins";
+    font-variation-settings: "wght" 200;
+  }
+}
